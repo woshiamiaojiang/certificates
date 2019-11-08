@@ -1,1 +1,1 @@
-# certificates
+# 本仓库专为hexo博客图床使用
